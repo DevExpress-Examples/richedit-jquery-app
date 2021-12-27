@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # RichEdit jQuery Application
 
-This example is a ready-to-use client jQuery application with the DevExpress RichEdit component.
+This example is a ready-to-use client jQuery application with the DevExpress [RichEdit](https://docs.devexpress.com/AspNetCore/400373/office-inspired-controls/controls/rich-edit) component.
 
 ## Requirements
 * To use the RichEdit control in a jQuery application, you need to have a [Universal, DXperience, or ASP.NET subscription](https://www.devexpress.com/buy/net/).
@@ -24,6 +24,11 @@ npm install devextreme devexpress-richedit --save
 3. Open the "JS/index.html" file.
 
 <!-- default file list -->
-*Files to look at*:
+## Files to Look At
+
 * [index.html](./JS/index.html)
 <!-- default file list end -->
+
+## Documentation
+
+- [Rich Text Editor](https://docs.devexpress.com/AspNetCore/400373/rich-edit)
